@@ -1,0 +1,7 @@
+[project]
+name = "media-tidy"
+version = "0.1.0"
+description = "Tidies Plex media under N:\\.plex into TV/Movies naming conventions, with dry-run plans, quarantine and undo."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
